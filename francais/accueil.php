@@ -36,6 +36,11 @@
             </a>
         </li>
         <li>
+            <a href="./produits.php" class="btn-nav-phone">
+                <span class="text-sm font-medium">Produits</span>
+            </a>
+        </li>
+        <li>
             <a href="./contact.php" class="btn-nav-phone">
                 <span class="text-sm font-medium">Contact</span>
             </a>
@@ -73,7 +78,7 @@
     </ul>
 
     <!-- Navegacion -->
-    <header class="bg-yellow-500 relative z-10">
+        <header class="bg-yellow-500 relative z-10">
         <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between py-4">
                 <div class=" md:flex md:items-center md:gap-12">
@@ -103,6 +108,11 @@
                             <li>
                                 <a class="link-nav" href="./services.php">
                                     Services
+                                </a>
+                            </li>
+                            <li>
+                                <a class="link-nav" href="./produits.php">
+                                    Produits
                                 </a>
                             </li>
                             <li>
@@ -295,6 +305,9 @@
                 </li>
                 <li>
                     <a class="text-gray-200 transition hover:text-gray-200/75" href="./services.php"> Services </a>
+                </li>
+                <li>
+                    <a class="text-gray-200 transition hover:text-gray-200/75" href="./produits.php"> Produits </a>
                 </li>
                 <li>
                     <a class="text-gray-200 transition hover:text-gray-200/75" href="./contact.php"> Contact </a>

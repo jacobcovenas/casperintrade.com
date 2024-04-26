@@ -199,6 +199,11 @@ switch ($idioma) {
             </a>
         </li>
         <li>
+            <a href="./productos.php" class="btn-nav-phone">
+                <span class="text-sm font-medium">Productos</span>
+            </a>
+        </li>
+        <li>
             <a href="./contacto.php" class="btn-nav-phone">
                 <span class="text-sm font-medium">Contacto</span>
             </a>
@@ -226,7 +231,7 @@ switch ($idioma) {
                         <a href="./english/index.php" class="flex z-20 gap-2 justify-start items-center rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700" role="menuitem">
                             Inglés <img class="w-6 h-6" src="./img/reino-unido.webp" alt="bandera de Gran Bretaña" />
                         </a>
-                        <a href="./francais/index.php" class="flex z-20 gap-2 justify-start items-center rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700" role="menuitem">
+                        <a href="./francais/accueil.php" class="flex z-20 gap-2 justify-start items-center rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700" role="menuitem">
                             Francés <img class="w-6 h-6" src="./img/francia.webp" alt="bandera de Francia" />
                         </a>
                     </div>
@@ -247,29 +252,34 @@ switch ($idioma) {
 
                 <div class="md:flex md:items-center md:gap-12">
                     <nav aria-label="Global" class="hidden lg:block">
-                        <ul class="flex items-center gap-10 text-sm text-white uppercase">
+                        <ul class="flex items-center gap-10  text-white uppercase">
                             <li>
-                                <a class="link-nav" href="./index.php">
+                                <a class="link-nav text-sm" href="./index.php">
                                     Inicio
                                 </a>
                             </li>
                             <li>
-                                <a class="link-nav" href="./nosotros.php">
+                                <a class="link-nav text-sm" href="./nosotros.php">
                                     Nosotros
                                 </a>
                             </li>
                             <li>
-                                <a class="link-nav" href="./socios.php">
+                                <a class="link-nav text-sm" href="./socios.php">
                                     Socios comerciales
                                 </a>
                             </li>
                             <li>
-                                <a class="link-nav" href="./servicios.php">
+                                <a class="link-nav text-sm" href="./servicios.php">
                                     Servicios
                                 </a>
                             </li>
                             <li>
-                                <a class="link-nav" href="./contacto.php">
+                                <a class="link-nav text-sm" href="./productos.php">
+                                    Productos
+                                </a>
+                            </li>
+                            <li>
+                                <a class="link-nav text-sm" href="./contacto.php">
                                     Contacto
                                 </a>
                             </li>
@@ -296,7 +306,7 @@ switch ($idioma) {
                                             <a href="./english/index.php" class="flex z-20 gap-2 justify-start items-center rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700" role="menuitem">
                                                 Inglés <img class="w-6 h-6" src="./img/reino-unido.webp" alt="bandera de Gran Bretaña" />
                                             </a>
-                                            <a href="./francais/index.php" class="flex z-20 gap-2 justify-start items-center rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700" role="menuitem">
+                                            <a href="./francais/accueil.php" class="flex z-20 gap-2 justify-start items-center rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700" role="menuitem">
                                                 Francés <img class="w-6 h-6" src="./img/francia.webp" alt="bandera de Francia" />
                                             </a>
                                         </div>
@@ -445,7 +455,7 @@ switch ($idioma) {
     </section>
 
     <!-- Footer -->
-    <footer class="bg-red-900">
+        <footer class="bg-red-900">
         <div class="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
             <div class="flex justify-center text-teal-600">
                 <a class="flex justify-center items-center" href="./index.php">
@@ -472,6 +482,10 @@ switch ($idioma) {
 
                 <li>
                     <a class="text-gray-200 transition hover:text-gray-200/75" href="./servicios.php"> Servicios </a>
+                </li>
+                
+                <li>
+                    <a class="text-gray-200 transition hover:text-gray-200/75" href="./productos.php"> Productos </a>
                 </li>
 
                 <li>
