@@ -25,11 +25,7 @@
                 <span class="text-sm font-medium">About Us</span>
             </a>
         </li>
-        <li>
-            <a href="./partners.php" class="btn-nav-phone">
-                <span class="text-sm font-medium">Business Partners</span>
-            </a>
-        </li>
+         
         <li>
             <a href="./services.php" class="btn-nav-phone">
                 <span class="text-sm font-medium">Services</span>
@@ -100,11 +96,7 @@
                                     About Us
                                 </a>
                             </li>
-                            <li>
-                                <a class="link-nav" href="./partners.php">
-                                    Business Partners
-                                </a>
-                            </li>
+                             
                             <li>
                                 <a class="link-nav" href="./services.php">
                                     Services
@@ -237,7 +229,7 @@
         <div class="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
             <div class="flex justify-center text-teal-600">
                 <a class="flex justify-center items-center" href="./index.php">
-                    <img alt="CASPER logo" src="../img/Logo ingles blanco.webp" class="w-80 h-auto" height="200" width="200" />
+                    <img alt="CASPER logo" src="../img/Logo ingles.webp" class="w-80 h-auto" height="200" width="200" />
                 </a>
             </div>
 
@@ -254,9 +246,7 @@
                     <a class="text-gray-200 transition hover:text-gray-200/75" href="./about.php"> About Us </a>
                 </li>
 
-                <li>
-                    <a class="text-gray-200 transition hover:text-gray-200/75" href="./partners.php"> Business Partners </a>
-                </li>
+                 
 
                 <li>
                     <a class="text-gray-200 transition hover:text-gray-200/75" href="./services.php"> Services </a>

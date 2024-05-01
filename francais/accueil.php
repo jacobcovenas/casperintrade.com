@@ -25,11 +25,7 @@
                 <span class="text-sm font-medium">À propos de nous</span>
             </a>
         </li>
-        <li>
-            <a href="./partenaires.php" class="btn-nav-phone">
-                <span class="text-sm font-medium">Partenaires commerciaux</span>
-            </a>
-        </li>
+         
         <li>
             <a href="./services.php" class="btn-nav-phone">
                 <span class="text-sm font-medium">Services</span>
@@ -100,11 +96,7 @@
                                     À propos de nous
                                 </a>
                             </li>
-                            <li>
-                                <a class="link-nav" href="./partenaires.php">
-                                    Partenaires commerciaux
-                                </a>
-                            </li>
+                             
                             <li>
                                 <a class="link-nav" href="./services.php">
                                     Services
@@ -287,7 +279,7 @@
         <div class="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
             <div class="flex justify-center text-teal-600">
                 <a class="flex justify-center items-center" href="./index.php">
-                    <img alt="Logo de CASPER" src="../img/logo frances blanco.webp" class="w-80 h-auto" height="200" width="200" />
+                    <img alt="Logo de CASPER" src="../img/Logo frances.webp" class="w-80 h-auto" height="200" width="200" />
                 </a>
             </div>
             <p class="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-200">
@@ -300,9 +292,7 @@
                 <li>
                     <a class="text-gray-200 transition hover:text-gray-200/75" href="./nous.php"> À propos de nous </a>
                 </li>
-                <li>
-                    <a class="text-gray-200 transition hover:text-gray-200/75" href="./partenaires.php"> Partenaires Commerciaux </a>
-                </li>
+                 
                 <li>
                     <a class="text-gray-200 transition hover:text-gray-200/75" href="./services.php"> Services </a>
                 </li>

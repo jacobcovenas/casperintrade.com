@@ -26,11 +26,7 @@
                 <span class="text-sm font-medium">Nosotros</span>
             </a>
         </li>
-        <li>
-            <a href="./socios.php" class="btn-nav-phone">
-                <span class="text-sm font-medium">Socios comerciales</span>
-            </a>
-        </li>
+         
         <li>
             <a href="./servicios.php" class="btn-nav-phone">
                 <span class="text-sm font-medium">Servicios</span>
@@ -101,11 +97,7 @@
                                     Nosotros
                                 </a>
                             </li>
-                            <li>
-                                <a class="link-nav text-sm" href="./socios.php">
-                                    Socios comerciales
-                                </a>
-                            </li>
+                             
                             <li>
                                 <a class="link-nav text-sm" href="./servicios.php">
                                     Servicios
@@ -219,7 +211,7 @@
         <div class="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
             <div class="flex justify-center text-teal-600">
                 <a class="flex justify-center items-center" href="./index.php">
-                    <img alt="CASPER logo" src="./img/logo blanco.webp" class="w-80 h-auto" height="200" width="200" />
+                    <img alt="CASPER logo" src="./img/logo.webp" class="w-80 h-auto" height="200" width="200" />
                 </a>
             </div>
 
@@ -236,9 +228,7 @@
                     <a class="text-gray-200 transition hover:text-gray-200/75" href="./nosotros.php"> Nosotros </a>
                 </li>
 
-                <li>
-                    <a class="text-gray-200 transition hover:text-gray-200/75" href="./socios.php"> Socios Comerciales </a>
-                </li>
+                 
 
                 <li>
                     <a class="text-gray-200 transition hover:text-gray-200/75" href="./servicios.php"> Servicios </a>
