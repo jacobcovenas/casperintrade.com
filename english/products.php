@@ -178,7 +178,7 @@
 
     <section class=" text-white bg-white bg-center relative bg-cover">
         <div class="mx-auto max-w-screen-xl relative px-4 py-10 grid gap-6">
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/ingrediente-harina-de-maiz.webp');">
                         <!-- Space for product image -->
@@ -191,7 +191,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/ingrediente-semola-trigo.webp');">
                         <!-- Space for product image -->
@@ -204,7 +204,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/harina-de-soya.webp');">
                         <!-- Space for product image -->
@@ -217,7 +217,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/aceites-vegetales.webp');">
                         <!-- Space for product image -->
@@ -230,7 +230,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/maduracion-de-carne-de-pollo-828x548.webp');">
                         <!-- Space for product image -->
@@ -243,7 +243,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/f.elconfidencial.com_original_98e_11e_faf_98e11efaf9aa654e34afb762e5341619.webp');">
                         <!-- Space for product image -->
@@ -256,7 +256,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/bonito.webp');">
                         <!-- Space for product image -->
@@ -269,7 +269,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/images.webp');">
                         <!-- Space for product image -->
@@ -282,7 +282,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/calamar1.webp');">
                         <!-- Space for product image -->
@@ -295,7 +295,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/Frijol.webp');">
                         <!-- Space for product image -->
@@ -308,7 +308,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/images\ \(1\).webp');">
                         <!-- Space for product image -->
@@ -321,7 +321,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/Palta-2-1024x682.webp');">
                         <!-- Space for product image -->
@@ -334,7 +334,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/limon-tahiti-sera-el-unico-citrico-de-peru-que-cerraria-sus--28467.webp');">
                         <!-- Space for product image -->
@@ -347,7 +347,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/azucar.webp');">
                         <!-- Space for product image -->
@@ -360,7 +360,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+            <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-500 ease-in-out transform hover:-translate-y-3">
                 <div class="flex flex-col md:flex-row min-h-80">
                     <div class="md:w-1/3 w-full h-56 md:h-auto bg-cover" style="background-image: url('../img/cafe.webp');">
                         <!-- Space for product image -->
